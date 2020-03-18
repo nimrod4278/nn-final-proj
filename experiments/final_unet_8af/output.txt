@@ -1,0 +1,301 @@
+cuda
+dataset-loader: opening ...  /data/local/NC2019MRI/train
+dataset-loader: opening ...  /data/local/NC2019MRI/test
+Training started
+epoch [1/100], loss:0.0177, val_loss:0.0138
+Best valid loss
+------------
+epoch [2/100], loss:0.0123, val_loss:0.0115
+Best valid loss
+------------
+epoch [3/100], loss:0.0107, val_loss:0.0107
+Best valid loss
+------------
+epoch [4/100], loss:0.0100, val_loss:0.0101
+Best valid loss
+------------
+epoch [5/100], loss:0.0093, val_loss:0.0100
+Best valid loss
+------------
+epoch [6/100], loss:0.0088, val_loss:0.0091
+Best valid loss
+------------
+epoch [7/100], loss:0.0084, val_loss:0.0092
+Best valid loss
+------------
+epoch [8/100], loss:0.0081, val_loss:0.0088
+Best valid loss
+------------
+epoch [9/100], loss:0.0078, val_loss:0.0088
+Best valid loss
+------------
+epoch [10/100], loss:0.0077, val_loss:0.0086
+Best valid loss
+------------
+epoch [11/100], loss:0.0075, val_loss:0.0088
+Best valid loss
+------------
+epoch [12/100], loss:0.0074, val_loss:0.0085
+Best valid loss
+------------
+epoch [13/100], loss:0.0072, val_loss:0.0082
+Best valid loss
+------------
+epoch [14/100], loss:0.0072, val_loss:0.0084
+Best valid loss
+------------
+epoch [15/100], loss:0.0072, val_loss:0.0084
+Best valid loss
+------------
+epoch [16/100], loss:0.0070, val_loss:0.0084
+Best valid loss
+------------
+epoch [17/100], loss:0.0069, val_loss:0.0085
+Best valid loss
+------------
+epoch [18/100], loss:0.0069, val_loss:0.0081
+Best valid loss
+------------
+epoch [19/100], loss:0.0068, val_loss:0.0082
+Best valid loss
+------------
+epoch [20/100], loss:0.0067, val_loss:0.0081
+Best valid loss
+------------
+epoch [21/100], loss:0.0067, val_loss:0.0081
+Best valid loss
+------------
+epoch [22/100], loss:0.0066, val_loss:0.0082
+Best valid loss
+------------
+epoch [23/100], loss:0.0066, val_loss:0.0080
+Best valid loss
+------------
+epoch [24/100], loss:0.0065, val_loss:0.0085
+Best valid loss
+------------
+epoch [25/100], loss:0.0065, val_loss:0.0082
+Best valid loss
+------------
+epoch [26/100], loss:0.0065, val_loss:0.0080
+Best valid loss
+------------
+epoch [27/100], loss:0.0065, val_loss:0.0081
+Best valid loss
+------------
+epoch [28/100], loss:0.0064, val_loss:0.0079
+Best valid loss
+------------
+epoch [29/100], loss:0.0063, val_loss:0.0079
+Best valid loss
+------------
+epoch [30/100], loss:0.0063, val_loss:0.0083
+Best valid loss
+------------
+epoch [31/100], loss:0.0063, val_loss:0.0080
+Best valid loss
+------------
+epoch [32/100], loss:0.0063, val_loss:0.0080
+Best valid loss
+------------
+epoch [33/100], loss:0.0062, val_loss:0.0079
+Best valid loss
+------------
+epoch [34/100], loss:0.0062, val_loss:0.0083
+Best valid loss
+------------
+epoch [35/100], loss:0.0062, val_loss:0.0083
+Best valid loss
+------------
+epoch [36/100], loss:0.0062, val_loss:0.0083
+Best valid loss
+------------
+epoch [37/100], loss:0.0061, val_loss:0.0081
+Best valid loss
+------------
+epoch [38/100], loss:0.0061, val_loss:0.0081
+Best valid loss
+------------
+epoch [39/100], loss:0.0061, val_loss:0.0080
+Best valid loss
+------------
+epoch [40/100], loss:0.0061, val_loss:0.0080
+Best valid loss
+------------
+epoch [41/100], loss:0.0060, val_loss:0.0080
+Best valid loss
+------------
+epoch [42/100], loss:0.0061, val_loss:0.0084
+Best valid loss
+------------
+epoch [43/100], loss:0.0060, val_loss:0.0079
+Best valid loss
+------------
+epoch [44/100], loss:0.0060, val_loss:0.0078
+Best valid loss
+------------
+epoch [45/100], loss:0.0060, val_loss:0.0081
+Best valid loss
+------------
+epoch [46/100], loss:0.0060, val_loss:0.0081
+Best valid loss
+------------
+epoch [47/100], loss:0.0059, val_loss:0.0079
+Best valid loss
+------------
+epoch [48/100], loss:0.0059, val_loss:0.0079
+Best valid loss
+------------
+epoch [49/100], loss:0.0059, val_loss:0.0079
+Best valid loss
+------------
+epoch [50/100], loss:0.0059, val_loss:0.0079
+Best valid loss
+------------
+epoch [51/100], loss:0.0059, val_loss:0.0078
+Best valid loss
+------------
+epoch [52/100], loss:0.0059, val_loss:0.0078
+Best valid loss
+------------
+epoch [53/100], loss:0.0059, val_loss:0.0078
+Best valid loss
+------------
+epoch [54/100], loss:0.0059, val_loss:0.0081
+Best valid loss
+------------
+epoch [55/100], loss:0.0058, val_loss:0.0079
+Best valid loss
+------------
+epoch [56/100], loss:0.0058, val_loss:0.0082
+Best valid loss
+------------
+epoch [57/100], loss:0.0059, val_loss:0.0079
+Best valid loss
+------------
+epoch [58/100], loss:0.0059, val_loss:0.0079
+Best valid loss
+------------
+epoch [59/100], loss:0.0058, val_loss:0.0079
+Best valid loss
+------------
+epoch [60/100], loss:0.0058, val_loss:0.0081
+Best valid loss
+------------
+epoch [61/100], loss:0.0057, val_loss:0.0080
+Best valid loss
+------------
+epoch [62/100], loss:0.0058, val_loss:0.0079
+Best valid loss
+------------
+epoch [63/100], loss:0.0057, val_loss:0.0078
+Best valid loss
+------------
+epoch [64/100], loss:0.0058, val_loss:0.0082
+Best valid loss
+------------
+epoch [65/100], loss:0.0058, val_loss:0.0079
+Best valid loss
+------------
+epoch [66/100], loss:0.0058, val_loss:0.0079
+Best valid loss
+------------
+epoch [67/100], loss:0.0057, val_loss:0.0080
+Best valid loss
+------------
+epoch [68/100], loss:0.0057, val_loss:0.0078
+Best valid loss
+------------
+epoch [69/100], loss:0.0058, val_loss:0.0080
+Best valid loss
+------------
+epoch [70/100], loss:0.0057, val_loss:0.0078
+Best valid loss
+------------
+epoch [71/100], loss:0.0057, val_loss:0.0079
+Best valid loss
+------------
+epoch [72/100], loss:0.0057, val_loss:0.0080
+Best valid loss
+------------
+epoch [73/100], loss:0.0057, val_loss:0.0081
+Best valid loss
+------------
+epoch [74/100], loss:0.0057, val_loss:0.0080
+Best valid loss
+------------
+epoch [75/100], loss:0.0057, val_loss:0.0079
+Best valid loss
+------------
+epoch [76/100], loss:0.0057, val_loss:0.0080
+Best valid loss
+------------
+epoch [77/100], loss:0.0057, val_loss:0.0080
+Best valid loss
+------------
+epoch [78/100], loss:0.0056, val_loss:0.0081
+Best valid loss
+------------
+epoch [79/100], loss:0.0056, val_loss:0.0082
+Best valid loss
+------------
+epoch [80/100], loss:0.0056, val_loss:0.0081
+Best valid loss
+------------
+epoch [81/100], loss:0.0057, val_loss:0.0079
+Best valid loss
+------------
+epoch [82/100], loss:0.0056, val_loss:0.0080
+Best valid loss
+------------
+epoch [83/100], loss:0.0056, val_loss:0.0082
+Best valid loss
+------------
+epoch [84/100], loss:0.0056, val_loss:0.0079
+Best valid loss
+------------
+epoch [85/100], loss:0.0056, val_loss:0.0078
+Best valid loss
+------------
+epoch [86/100], loss:0.0056, val_loss:0.0079
+Best valid loss
+------------
+epoch [87/100], loss:0.0056, val_loss:0.0080
+Best valid loss
+------------
+epoch [88/100], loss:0.0056, val_loss:0.0080
+Best valid loss
+------------
+epoch [89/100], loss:0.0056, val_loss:0.0078
+Best valid loss
+------------
+epoch [90/100], loss:0.0056, val_loss:0.0081
+Best valid loss
+------------
+epoch [91/100], loss:0.0056, val_loss:0.0080
+Best valid loss
+------------
+epoch [92/100], loss:0.0056, val_loss:0.0079
+Best valid loss
+------------
+epoch [93/100], loss:0.0056, val_loss:0.0080
+Best valid loss
+------------
+epoch [94/100], loss:0.0055, val_loss:0.0078
+Best valid loss
+------------
+epoch [95/100], loss:0.0055, val_loss:0.0078
+Best valid loss
+------------
+epoch [96/100], loss:0.0056, val_loss:0.0080
+Best valid loss
+------------
+epoch [97/100], loss:0.0056, val_loss:0.0082
+Best valid loss
+------------
+epoch [98/100], loss:0.0055, val_loss:0.0079
+Best valid loss
+------------
+epoch [99/100], loss:0.0055, val_loss:0.0080
+Best valid loss
+------------
